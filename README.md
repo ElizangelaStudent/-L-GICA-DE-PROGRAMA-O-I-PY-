@@ -1,4 +1,5 @@
-![homem_letra](https://github.com/ElizangelaStudent/-L-GICA-DE-PROGRAMA-O-I-PY-/blob/3ada955ac03cec07b6173afaf1152dc7851f5434/homem%20letra.gif)
+<p align="center">
+<img width="180px" height= 269 src=https://github.com/ElizangelaStudent/-L-GICA-DE-PROGRAMA-O-I-PY-/blob/3ada955ac03cec07b6173afaf1152dc7851f5434/homem%20letra.gif
 
 </p>
 
