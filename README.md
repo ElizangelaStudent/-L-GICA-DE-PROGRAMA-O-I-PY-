@@ -69,7 +69,7 @@
  
  ## Aula 8- Símbolos especiais  e Funções da Strings -Python
  
- Além de letras, números, sinais de pontuação, símbolos matemáticos etc., uma string pode conter alguns operadores especiais de controle. Esses operadores podem indicar, por exemplo, uma quebra de linha ou uma tabulação. Aproveite essa aula e mergulhe no mundo dos simbolos especiais e as funções da string. 
+ Além de letras, números, sinais de pontuação, símbolos matemáticos etc., uma string pode conter alguns operadores especiais de controle. Esses operadores podem indicar, por exemplo, uma quebra de linha ou uma tabulação. Aproveite essa aula e mergulhe no mundo dos simbolos especiais e das funções da string. 
  
  **[Aula 8](https://github.com/ElizangelaStudent/L-GICA-DE-PROGRAMA-O-I-PY-/blob/8fc437f686c392f343e5e693b756091bc3d67cfa/Aula_8_S%C3%ADmbolos_especiais_e_Fun%C3%A7%C3%B5es_da_Strings_Python.ipynb)**
  
