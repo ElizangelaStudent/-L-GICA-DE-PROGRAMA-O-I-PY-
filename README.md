@@ -9,7 +9,7 @@
 <p align="center"> Este projeto tem como finalidade expor as aulas e chegar as habilidades adquiridas no bootcamp do Diversidade Tech (python e dados) fornecido pela Suzano S.A. em parceria com a Let's Code from ADA.</p>
 
 <p align="center">
-<img width="70px" height= 40 src=https://github.com/ElizangelaStudent/L-GICA-DE-PROGRAMA-O-I-PY-/blob/6b8161e5b9a8f01081657e3b2fe54332d16ebac8/log%20suzano.png />
+<img width="70px" height= 40 src=https://github.com/ElizangelaStudent/L-GICA-DE-PROGRAMA-O-I-PY-/blob/103c4302c09169b794bdf7b4f6207fa637f5320e/log%20suzano.png />
 <img width="50px" height= 50 src=https://github.com/ElizangelaStudent/L-GICA-DE-PROGRAMA-O-I-PY-/blob/e4380d101e392e42ada291869556549488411d6a/ada%20(2).png />
 
 
