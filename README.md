@@ -75,8 +75,6 @@
  
 ## Desafio- Lógica de Programação I
 
-Desafio de Lógica de Programação I, tem como intuito testar as habilidades adquiridas nesse módulo. A resolução desse desafio foi realizado pelo tutor Davi Nascimento, você pode conhecer 
-
-https://github.com/davicn
+Desafio de Lógica de Programação I, tem como intuito testar as habilidades adquiridas nesse módulo. A resolução desse desafio foi realizado pelo tutor Davi Nascimento, você pode conhecer mais sobre seu trabalho, acessando : https://github.com/davicn
 
 **[Desafio- Lógica de Programação I](https://github.com/ElizangelaStudent/L-GICA-DE-PROGRAMA-O-I-PY-/blob/58fc90ecc1253b68693cb29597cfb585b88ea170/Desafio_L%C3%B3gica_de_Programa%C3%A7%C3%A3o_I.ipynb)
