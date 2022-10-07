@@ -54,7 +54,7 @@
  
  ## Aula 6-Funçoes das listas
  
- Existem várias maneiras de se criar e modular uma lista. Nesta Aula, veremos sobre as funções das listas
+ Existem várias maneiras de se criar e modular uma lista. Nesta Aula, veremos sobre as funções das listas.
  
  
  **[Aula 6](https://github.com/ElizangelaStudent/L-GICA-DE-PROGRAMA-O-I-PY-/blob/8fc437f686c392f343e5e693b756091bc3d67cfa/Aula_6_Fun%C3%A7oes_das_listas.ipynb)**
