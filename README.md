@@ -13,7 +13,7 @@
 <img width="50px" height= 30 src=https://github.com/ElizangelaStudent/L-GICA-DE-PROGRAMA-O-I-PY-/blob/c0a773c80eb372f4384cdeefa1ee51461da8bc36/ADA.jpeg />
 
 
-<p align="center"> ⚠️🚧Em construção🚧⚠️</p>
+
 
  
  ## Aula 1-Tipos, variaveis, leitura de dados, palavras reservadas, mudanças de tipos e operações aritmeticas
